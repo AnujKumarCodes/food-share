@@ -1,0 +1,8 @@
+{
+  "name": "FoodShare",
+  "description": "Save Food. Share Hope. Connect surplus food from restaurants, hotels, grocers, and events with verified NGOs and distribution volunteers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
